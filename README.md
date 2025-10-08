@@ -1,3 +1,3 @@
 # zohort
 
-<img width="987" height="290" alt="image" src="https://github.com/user-attachments/assets/de4b943a-cecf-473c-9791-ae33464b5aa9" />
+<img width="985" height="344" alt="image" src="https://github.com/user-attachments/assets/3ca4fe32-aea1-4e43-a780-5cf7c48ac019" />
