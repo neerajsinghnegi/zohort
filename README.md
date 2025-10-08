@@ -1,6 +1,6 @@
 # zohort
 
-## K8s- Create a GitHub repo with Kubernetes manifests for a stateless web app. Requirements:
+## K8s- Create a GitHub repo with Kubernetes manifests for a stateless web app.
 - Deployment with 3 replicas of an Nginx or Node.js app
 - ConfigMap for environment variable (e.g., APP_ENV=prod)
 - Service (ClusterIP) exposing port 80
